@@ -18,3 +18,56 @@ Furthermore, wireframing contributes to better development handoff. A clear wire
 
 In conclusion, wireframing is a crucial step in the design and development process of digital products. It helps transform abstract ideas into concrete, visual plans, improves team communication, reduces unnecessary revisions, and keeps the focus on creating user-friendly experiences. While it may be tempting to jump straight into visual design, skipping the wireframing stage often leads to misaligned expectations and costly errors. By investing time in this early planning phase, teams can set a solid foundation for a product that is not only functional and beautiful but also intuitive and successful.
 
+## Types of Wireframes
+Wireframes come in different levels of fidelity depending on how detailed and polished they are. Each type serves a different purpose in the design process and is used at different stages of development. The three main types of wireframes are low-fidelity, mid-fidelity, and high-fidelity wireframes.
+
+1. Low-Fidelity Wireframes
+Low-fidelity wireframes are the most basic form of wireframes. They are often sketched by hand or created with simple digital tools. These wireframes focus purely on layout and structure—showing where elements like headers, buttons, images, and text will be placed—without any concern for styling, color, or font.
+
+### Purpose:
+
+* Quickly brainstorm and explore layout ideas
+* Communicate early concepts with stakeholders
+* Encourage feedback and revisions without emotional attachment to design details
+
+### Characteristics:
+
+* Black and white or grayscale
+* Placeholder text (like "Lorem ipsum")
+* Simple boxes and shapes for images and buttons
+* No interactivity
+
+2. Mid-Fidelity Wireframes
+Mid-fidelity wireframes offer more detail than low-fidelity ones. While they still avoid full styling, they begin to define spacing, layout consistency, and user flow. Mid-fidelity wireframes may use real content or more accurate labels, helping stakeholders better understand how the product will function.
+
+### Purpose:
+
+* Refine layout and structure
+* Provide more realistic content hierarchy
+* Facilitate better feedback on usability and flow
+
+### Characteristics:
+
+* Basic typographic hierarchy (e.g., using bold for headings)
+* Grayscale with consistent use of UI components
+* Often created using design tools like Figma, Adobe XD, or Sketch
+* May begin to simulate screen transitions or flows
+
+3. High-Fidelity Wireframes
+High-fidelity wireframes are the most detailed and often closely resemble the final product. These wireframes may include real content, near-final spacing and alignment, and even interactivity in some cases. Though they are still not the full visual design (no color schemes or final graphics), they are highly useful for developer handoff or usability testing.
+
+### Purpose:
+
+* Present the near-final structure to stakeholders
+* Prepare for prototype development
+* Serve as a technical guide for developers
+
+###Characteristics:
+
+* Detailed content and accurate UI components
+* Includes notes or annotations
+* May be clickable or interactive (depending on the tool used)
+* Often used in usability testing with real users
+
+## Choosing the Right Type of Wireframe
+The type of wireframe you choose depends on your goal, timeline, and audience. For brainstorming with your team, low-fidelity sketches might be enough. For stakeholder presentations or usability tests, mid- or high-fidelity wireframes provide better clarity. Many projects naturally evolve through all three stages as the design becomes more refined.
